@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAHUL25CODER?tab=repositories](https://github.com/RAHUL25CODER?tab=repositories)
 
-- 💬 Ask me about **Data modal building, Data mining, Data analysis ,Data Preprocessing,Data Visualization**
+- 💬 Ask me about **Data model building, Data mining, Data analysis ,Data Preprocessing,Data Visualization**
 
 - 📫 How to reach me **iamenginer2510@gmail.com**
 
