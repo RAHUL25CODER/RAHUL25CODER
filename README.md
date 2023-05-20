@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [feature Engineering on Super Market](https://github.com/RAHUL25CODER/FEATURE-ENGINEERING)
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🌱 I’m verse **MACHINE LEARNING**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAHUL25CODER?tab=repositories](https://github.com/RAHUL25CODER?tab=repositories)
 
